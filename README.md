@@ -47,7 +47,7 @@ To complete Part II, fulfill the following requirements:
   * One button to go to the next panel (>)
 
 
-### Part III access
+### Part III CSS
 
 To complete Part III, fulfill the following requirements:
 
@@ -132,4 +132,4 @@ dialogue.innerHTML = trackA[counter].dialogue;
 
 ### Stretch Goals
 
-1. Add sound and style your page so that readers have a one of a kind story experience! 
+1. Add sound and style your page so that readers have a one of a kind story experience!
